@@ -1,0 +1,2 @@
+how are you 1
+adding after commit, and git add hipster.txt , then git status

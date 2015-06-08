@@ -1,0 +1,5 @@
+how are you 1
+adding after commit, and git add hipster.txt , then git status
+
+ADD more text today 06072015
+moved hipster.txt file from otherlocation to level 1 folder
